@@ -73,6 +73,12 @@ public/libraries
 # Logs
 logs
 *.log
+=======
+# Logs
+logs
+*.log
+npm-debug.log*
+>>>>>>> 573a005ade8b00da3e4089f10a53bf5dfec3c663
 
 # Runtime data
 pids
@@ -96,4 +102,10 @@ build/Release
 
 # Dependency directory
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
-node_modules
+node_moduless
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
